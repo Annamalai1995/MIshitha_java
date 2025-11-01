@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bbae4c31-3063-456d-9757-e099954e6533" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA/Exception/ArithmeticExce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA/Exception/RuntimeExcep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA/Exception/chance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/JAVA/Exception/StringException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/JAVA/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/JAVA/App.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,13 +73,21 @@
       <option name="project" value="LOCAL" />
       <updated>1758714748599</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Exception">
+      <created>1761371439200</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761371439200</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="javaa" />
     <MESSAGE value="javaa1" />
-    <option name="LAST_COMMIT_MESSAGE" value="javaa1" />
+    <MESSAGE value="Exception" />
+    <option name="LAST_COMMIT_MESSAGE" value="Exception" />
   </component>
 </project>
